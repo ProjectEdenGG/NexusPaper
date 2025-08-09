@@ -1,0 +1,6 @@
+name: NexusPaper
+description: Nexus paper plugin solely for interacting with Paper Plugin specific APIs
+version: '1.0.0'
+api-version: '1.21.8'
+main: gg.projecteden.nexus.paper.NexusPaper
+bootstrapper: gg.projecteden.nexus.paper.NexusBootstrapper
